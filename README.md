@@ -45,4 +45,4 @@ The program will allow users to add new data to an existing file without deletin
 The appended data will be written at the end of the file.
 
 output:    
-
+![Image](https://github.com/user-attachments/assets/db4b1ae7-ad8c-4e1b-9c74-c011a6dc149f)
